@@ -1,0 +1,4 @@
+import {ESpace, VIEWPORT_WIDTH} from '_theme';
+
+export const PREVIEW_ITEM_SIZE_MARGIN = ESpace.s16;
+export const PREVIEW_WIDTH_SIZE = VIEWPORT_WIDTH - PREVIEW_ITEM_SIZE_MARGIN * 2;
